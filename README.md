@@ -1,7 +1,7 @@
 # Ingrid Toukep
 
 ### Education
-## ** Computer Engineering **
+## Computer Engineering
 Montgomery College, Rockville, MD	           			                                          Aug 2023-Present
 ## High School Diploma 
 Bangangte High School, Bangangte, Cameroon 	                      		                      July 2022
