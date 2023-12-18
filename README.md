@@ -15,7 +15,7 @@ Soap Production (saponification), Chemistry laboratories with professors in clas
 ## Computer: 
 Word, Excel, PowerPoint, Outlook, Zoom, 
 ## Computer Programming: 
-Python, Jupyter Notebook, Shapely, Geopanda, Numpy. 
+Python 
 ## Languages: 
 French, native speaker fluent written and spoken
 ### VOLUNTEER EXPERIENCE
